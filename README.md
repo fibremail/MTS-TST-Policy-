@@ -4,10 +4,6 @@ Overview
 
 This repository hosts the MTA-STS policy for the Fibremail sub domain.
 
-The policy is served from:
-
-"https://mta-sts.sl.fibremail.com/.well-known/mta-sts.txt"
-
 It allows supporting mail servers to verify that SMTP connections to the Fibremail mail infrastructure must use valid TLS and trusted certificates.
 
 ---
